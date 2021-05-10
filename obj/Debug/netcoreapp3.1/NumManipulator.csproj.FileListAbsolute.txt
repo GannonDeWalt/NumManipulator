@@ -1,0 +1,13 @@
+C:\Users\Lntinfotech\NumManipulator\obj\Debug\netcoreapp3.1\NumManipulator.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\NumManipulator\obj\Debug\netcoreapp3.1\NumManipulator.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\NumManipulator\obj\Debug\netcoreapp3.1\NumManipulator.AssemblyInfo.cs
+C:\Users\Lntinfotech\NumManipulator\obj\Debug\netcoreapp3.1\NumManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\NumManipulator\bin\Debug\netcoreapp3.1\NumManipulator.exe
+C:\Users\Lntinfotech\NumManipulator\bin\Debug\netcoreapp3.1\NumManipulator.deps.json
+C:\Users\Lntinfotech\NumManipulator\bin\Debug\netcoreapp3.1\NumManipulator.runtimeconfig.json
+C:\Users\Lntinfotech\NumManipulator\bin\Debug\netcoreapp3.1\NumManipulator.runtimeconfig.dev.json
+C:\Users\Lntinfotech\NumManipulator\bin\Debug\netcoreapp3.1\NumManipulator.dll
+C:\Users\Lntinfotech\NumManipulator\bin\Debug\netcoreapp3.1\NumManipulator.pdb
+C:\Users\Lntinfotech\NumManipulator\obj\Debug\netcoreapp3.1\NumManipulator.dll
+C:\Users\Lntinfotech\NumManipulator\obj\Debug\netcoreapp3.1\NumManipulator.pdb
+C:\Users\Lntinfotech\NumManipulator\obj\Debug\netcoreapp3.1\NumManipulator.genruntimeconfig.cache
